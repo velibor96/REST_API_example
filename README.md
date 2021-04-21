@@ -1,2 +1,2 @@
 # Fibonacci
-Simple Fibonacci example with Java (Spring Boot)
+Simple REST API example with Java (Spring Boot)
